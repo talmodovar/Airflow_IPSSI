@@ -1,0 +1,13 @@
+# Airflow & Docker generated files
+logs/
+plugins/
+config/
+.env
+
+# JSON Reports
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
